@@ -500,7 +500,7 @@
         <!--Set up TermHere-->
         <scene sceneID="nT3-On-tDw">
             <objects>
-                <viewController title="Set up TermHere" showSeguePresentationStyle="single" id="wFB-qR-a0M" customClass="SetupViewController" customModule="TermHere" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Set up TermHere" storyboardIdentifier="setupWindowController" showSeguePresentationStyle="single" id="wFB-qR-a0M" customClass="SetupViewController" customModule="TermHere" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" id="JCr-pN-hJt">
                         <rect key="frame" x="0.0" y="0.0" width="480" height="248"/>
                         <autoresizingMask key="autoresizingMask"/>
