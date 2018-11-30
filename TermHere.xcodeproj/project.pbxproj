@@ -595,13 +595,13 @@
 				TargetAttributes = {
 					CF66BEC51FC1BB6300585587 = {
 						CreatedOnToolsVersion = 9.1;
-						DevelopmentTeam = N2LN9ZT493;
+						DevelopmentTeam = N642Z87WUJ;
 						LastSwiftMigration = 1000;
 						ProvisioningStyle = Automatic;
 					};
 					CF9CEE5A1CE59B1F00A89E71 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = N2LN9ZT493;
+						DevelopmentTeam = N642Z87WUJ;
 						LastSwiftMigration = 1000;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.Mac = {
@@ -614,7 +614,7 @@
 					};
 					CFD9B7C11CE5960500947EC8 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = N2LN9ZT493;
+						DevelopmentTeam = N642Z87WUJ;
 						LastSwiftMigration = 1000;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.Mac = {
@@ -1108,7 +1108,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/Mac",
@@ -1128,7 +1128,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				INFOPLIST_FILE = "TermHere Finder Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "au.com.hbang.TermHere.TermHere-Finder-Extension";
@@ -1150,7 +1150,7 @@
 				CODE_SIGN_ENTITLEMENTS = "TermHere Service/TermHere_Service.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = "TermHere Service/Info.plist";
 				INSTALL_PATH = "$(LOCAL_APPS_DIR)/TermHere.app/Contents/SharedSupport";
@@ -1225,7 +1225,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/Mac",
@@ -1245,7 +1245,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				INFOPLIST_FILE = "TermHere Finder Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "au.com.hbang.TermHere.TermHere-Finder-Extension";
@@ -1268,7 +1268,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = "TermHere Service/Info.plist";
 				INSTALL_PATH = "$(LOCAL_APPS_DIR)/TermHere.app/Contents/SharedSupport";
@@ -1290,7 +1290,7 @@
 				CODE_SIGN_ENTITLEMENTS = "TermHere Service/TermHere_Service.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = "TermHere Service/Info.plist";
 				INSTALL_PATH = "$(LOCAL_APPS_DIR)/TermHere.app/Contents/SharedSupport";
@@ -1314,7 +1314,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				INFOPLIST_FILE = "TermHere Service/Info.plist";
 				INSTALL_PATH = "$(LOCAL_APPS_DIR)/TermHere.app/Contents/SharedSupport";
@@ -1332,7 +1332,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				INFOPLIST_FILE = "TermHere Finder Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "au.com.hbang.TermHere.TermHere-Finder-Extension";
@@ -1350,7 +1350,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				INFOPLIST_FILE = "TermHere Finder Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "au.com.hbang.TermHere.TermHere-Finder-Extension";
@@ -1483,7 +1483,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/Mac",
@@ -1505,7 +1505,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = N2LN9ZT493;
+				DEVELOPMENT_TEAM = N642Z87WUJ;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/Mac",
