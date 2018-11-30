@@ -31,6 +31,8 @@ class ViewController: NSViewController {
 		terminalPathControl.url = preferences.terminalAppURL
 		editorPathControl.url = preferences.editorAppURL
 		openSelectionCheckbox.state = preferences.openSelection ? .on : .off
+        terminalContextMenusCheckbox.state = preferences.terminalShowInContextMenu ? .on : .off
+        editorContextMenusCheckbox.state = preferences.editorShowInContextMenu ? .on : .off
 	}
 
 	override func viewDidAppear() {
